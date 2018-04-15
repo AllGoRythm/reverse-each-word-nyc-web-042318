@@ -4,10 +4,10 @@ def reverse_each_word(words)
 
   new_array = []
 
-  array.each do |element|
+  array.collect do |element|
     new_array << element.reverse
   end
 
 
-  
+
 end
