@@ -10,4 +10,5 @@ def reverse_each_word(words)
 
 
   reverse_collection = new_array.join(" ")
+  return reverse_collection
 end
