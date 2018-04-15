@@ -1,3 +1,3 @@
-def reverse_each_method(array)
-  array.reverse 
+def reverse_each_word(array)
+  array.reverse
 end
