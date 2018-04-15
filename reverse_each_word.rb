@@ -8,6 +8,6 @@ def reverse_each_word(words)
     new_array << element.reverse
   end
 
-  
 
+  reverse_collection = 
 end
